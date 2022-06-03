@@ -1,0 +1,72 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&family=Kdam+Thmor+Pro&display=swap');
+
+
+
+.familialetra1 {
+font-family: 'Kanit',Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.familialetra2 {
+    font-family: 'Kdam Thmor Pro', 'Times New Roman', Times, serif
+}
+
+.familialetra3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.negrita {
+    font-weight: bold;
+}
+
+.cursiva {
+    font-style: italic;
+}
+
+.tcentro {
+    text-align: center;
+}
+
+.fondohuesito {
+    background-image: url("../img/bowl.jpg");
+}
+
+.fondofoto {
+    background-image: url("../img/FotoKike.jpeg");
+}
+
+
+.link {
+    font-size: xx-large;
+    font-style: italic;
+    font-weight: bolder;
+    color:#005677
+}
+
+.letrablanca {
+    color: white;
+}
+
+.letraazul {
+    color: #005677;
+}
+
+
+
+h1 {
+    background-color: #c4c4c4;
+    color: #005677;
+    text-align: center;
+}
+
+h2 {
+    background-color: #c4c4c4;
+    color: #005677;
+}
+
+footer {
+    background-color: #005677;
+    color: #FFFF;
+    text-align: center;
+}
